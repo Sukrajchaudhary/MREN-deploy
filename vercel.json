@@ -32,7 +32,7 @@
         },
         {
             "src": "/(.+)",
-            "dest": "index.js/$1"
+            "dest": "build/$1"
         }
     ]
 }
